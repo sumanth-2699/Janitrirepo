@@ -1,0 +1,10 @@
+# Maven
+target/
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+
+# OS
+.DS_Store
